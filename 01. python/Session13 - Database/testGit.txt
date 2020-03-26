@@ -1,6 +1,0 @@
-//testGit update version 0.1 Beta
-
-import pandas as pd
-list = ["a"]
-df = pd.DataFrame(list)
-df
